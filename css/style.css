@@ -121,7 +121,6 @@ button:hover , button:focus , button:active{
 /* inputs */
 input{
 	outline: none;
-	border: 1px solid transparent;
 }
 .b-input{
 	position: relative;
@@ -335,7 +334,7 @@ select{
 	appearance: none !important;
 }
 .b-input__text , .b-select{
-	border: 1px solid transparent;
+	/*border: 1px solid transparent;*/
 	transition: 0.3s;
 }
 .b-input__text:focus , .b-select:focus{
