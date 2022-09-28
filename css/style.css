@@ -154,14 +154,12 @@ input{
 	font-size: 12px;
 	line-height: 14px;
 	color: #000000;
-	opacity: 0.7;
 }
 .b-input__text:-moz-placeholder{
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 14px;
 	color: #000000;
-	opacity: 0.7;
 }
 .b-btn{
 	width: 100%;
